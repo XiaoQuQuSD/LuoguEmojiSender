@@ -1,5 +1,7 @@
 # LuoguEmojiSender
 
+Modify By XiaoQuQu
+
 A TamperMonkey addon which can help you send QQ emoji conveniently.
 
 一款可以帮助您在洛谷犇犇、讨论区快速发送QQ表情的插件。
